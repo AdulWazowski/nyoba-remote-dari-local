@@ -10,5 +10,11 @@
     <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita maxime animi, beatae at, nesciunt quasi omnis rem, sit dolores eveniet fugit temporibus ab quae.
     </p>
+
+    <div>
+        <button>
+            klik cuy
+        </button>
+    </div>
 </body>
 </html>
